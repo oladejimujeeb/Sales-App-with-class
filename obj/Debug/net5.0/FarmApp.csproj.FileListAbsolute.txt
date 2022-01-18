@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\FarmApp.exe
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\FarmApp.deps.json
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\FarmApp.runtimeconfig.json
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\FarmApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\FarmApp.dll
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\ref\FarmApp.dll
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\bin\Debug\net5.0\FarmApp.pdb
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.dll
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\ref\FarmApp.dll
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.pdb
+C:\Users\User\Desktop\code learners hub\CLASS\FarmApp\obj\Debug\net5.0\FarmApp.genruntimeconfig.cache
