@@ -84,7 +84,7 @@ namespace FarmApp
             Console.Write("Enter ProductID: ");
             string productID = Console.ReadLine();
             Product product =Product.GetProduct(productID);
-            if(product != null && product.Productquantity!=0)
+            if(product != null && product.Productquantity>0)
             {
                 Console.Write("Enter Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
@@ -100,7 +100,7 @@ namespace FarmApp
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Product not found");
+                Console.WriteLine("Product not found/Out of Stock");
                 Console.ForegroundColor = ConsoleColor.White;
             }
         }
